@@ -47,6 +47,20 @@ const questions = [
     },
     // Usage Information
     {
+        type: 'input',
+        name: 'usage',
+        message: 'How do you use this project? (Required)',
+        validate: usageInput => {
+            if (usageInput) {
+                return true;
+            } else {
+                console.log('Please provide information on how to use the project!');
+                return false;
+            }
+        }
+    },
+    // Contribution Guidelines
+    {
         
     }
 ];
