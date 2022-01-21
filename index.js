@@ -33,6 +33,20 @@ const questions = [
     },
     // Installation Instructions
     {
+        type: 'input',
+        name: 'installation',
+        message: 'How do you install the project? (Required)',
+        validate: installationInput => {
+            if (installationInput) {
+                return true;
+            } else {
+                console.log('Please provide Installation Instructions to continue!');
+                return false;
+            }
+        }
+    },
+    // Usage Information
+    {
         
     }
 ];
