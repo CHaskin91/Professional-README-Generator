@@ -73,7 +73,24 @@ const questions = [
             }
         }
     },
-    // 
+    // Test Instructions
+    {
+        type: 'input',
+        name: 'testing',
+        message: 'How do you test this project? (Required)',
+        validate: testingInput => {
+            if (testingInput) {
+                return true;
+            } else {
+                console.log('Please describe how to test the project!');
+                return false;
+            }
+        }
+    },
+    // License Options
+    {
+        
+    }
 ];
 
 // TODO: Create a function to write README file
