@@ -19,6 +19,7 @@ Video of app being used - goes here.
 ## Resources
 * Inquirer Documentation [https://www.npmjs.com/package/inquirer]
 * Stack Overflow help [https://stackoverflow.com/questions/68692968/node-js-nodeinternal-modules-cjs-loader936-error-while-trying-to-use-discord-j]
+* Choose a License [https://choosealicense.com/]
 
 ## Licensing
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)

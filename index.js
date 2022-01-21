@@ -89,6 +89,21 @@ const questions = [
     },
     // License Options
     {
+        type: 'checkbox',
+        name: 'licensing',
+        message: 'Choose a license for the project. (Required)',
+        choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'Common-Development-and Distribution', 'None'],
+        validate: licensingInput => {
+            if (licensingInput) {
+                return true;
+            } else {
+                console.log('Please pick a license for the project, or select "none".');
+                return false;
+            }
+        }
+    },
+    // Github Username
+    {
         
     }
 ];
