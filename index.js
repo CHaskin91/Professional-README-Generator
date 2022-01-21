@@ -61,8 +61,19 @@ const questions = [
     },
     // Contribution Guidelines
     {
-        
-    }
+        type: 'input',
+        name: 'contribution',
+        message: 'How can people contribute to the project? (Required)',
+        validate: contributionInput => {
+            if (contributionInput) {
+                return true;
+            } else {
+                console.log('Please provide information for how to contribute to the project!');
+                return false;
+            }
+        }
+    },
+    // 
 ];
 
 // TODO: Create a function to write README file
