@@ -18,7 +18,23 @@ const questions = [
         }
     },
     // Project Description
-
+    {
+        type: 'input',
+        name: 'description',
+        message: 'Provide a description of the Project (Required)',
+        validate: descriptionInput => {
+            if (descriptionInput) {
+                return true;
+            } else {
+                console.log('Please provide a project description to continue!');
+                return false;
+            }
+        }
+    },
+    // Installation Instructions
+    {
+        
+    }
 ];
 
 // TODO: Create a function to write README file
