@@ -1,39 +1,34 @@
-# Professional README Generator
+# test 1
 
-## Licensing
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+  ## Licensing:
+  [![license]https://img.shields.io/badge/license-MIT,Mozilla-Public,GNU-General-Public-blue)](https://shields.io)
 
-## Table of Contents 
+  ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
-  - [Resources](#resources)
 
+  ## Description:
+  testing gen
 
-## Description
-Quickly generate a professional README for a new project.
+  ## Installation:
+  no
 
-## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+  ## Usage:
+  yes
 
-## Usage 
-Video of app being used - goes here.
+  ## License:
+  MIT,Mozilla-Public,GNU-General-Public
 
-## Contribution
-How can users contribute to this project?
+  ## Contribution:
+  no
 
-## Testing
-How do users test this project?
+  ## Testing:
+  yes
 
-## Additional Info
-GitHub Account: [CHaskin91](https://github.com/CHaskin91)
-Email: chaskin91@gmail.com
-
-## Resources
-* Inquirer Documentation [https://www.npmjs.com/package/inquirer]
-* Stack Overflow help [https://stackoverflow.com/questions/68692968/node-js-nodeinternal-modules-cjs-loader936-error-while-trying-to-use-discord-j]
-* Choose a License [https://choosealicense.com/]
-* Write File Documentation [https://nodejs.org/api/fs.html#filehandlewritefiledata-options]
+  ## Additional Info:
+  - Github: [chaskin91](https://github.com/chaskin91)
+  - Email: chaskin91@gmail.com 
