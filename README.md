@@ -23,7 +23,7 @@ Quickly generate a professional README for a new project.
 * Run node index.js
 
 ## Usage 
-Video of app being used - goes here.
+[https://drive.google.com/file/d/18AZIuNS_an9Tnp9h0PJYh-DMs1vQ_sl-/view?usp=sharing]
 
 ## Contribution
 Pull requests are welcome.  If you make a major change, please open an issue first to discuss what you would like to change.
