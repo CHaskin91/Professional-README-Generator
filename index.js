@@ -130,7 +130,7 @@ function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
         if (err)
             throw err;
-        console.log('Success! Information transferred to the README!')
+        console.log('Success! Information transferred to the SAMPLEREADME.md File!')
     });
 };
 
@@ -139,7 +139,7 @@ function init() {
     inquirer.prompt(questions)
     .then(function (userInput) {
         console.log(userInput)
-        writeToFile("README.md", generateMarkdown(userInput));
+        writeToFile("SAMPLEREADME.md", generateMarkdown(userInput));
     });
 };
 

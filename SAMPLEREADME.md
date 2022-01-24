@@ -10,7 +10,6 @@
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
-  - [Resources](#resources)
 
 
 ## Description
@@ -34,9 +33,3 @@ N/A
 ## Additional Info
 * GitHub Account: [CHaskin91](https://github.com/CHaskin91)
 * Email: chaskin91@gmail.com
-
-## Resources
-* Inquirer Documentation [https://www.npmjs.com/package/inquirer]
-* Stack Overflow help [https://stackoverflow.com/questions/68692968/node-js-nodeinternal-modules-cjs-loader936-error-while-trying-to-use-discord-j]
-* Choose a License [https://choosealicense.com/]
-* Write File Documentation [https://nodejs.org/api/fs.html#filehandlewritefiledata-options]
