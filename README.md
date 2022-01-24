@@ -23,7 +23,8 @@ Quickly generate a professional README for a new project.
 * Run node index.js
 
 ## Usage 
-[<img src="https://drive.google.com/file/d/18AZIuNS_an9Tnp9h0PJYh-DMs1vQ_sl-/view" width="50%">](https://drive.google/<VIDEO ID>)
+Follow the Link below to see a video tutorial.
+[https://drive.google.com/file/d/1pXrl1K43zVaK7prEmodZdxCWbS5O8WIt/view]
 
 ## Contribution
 Pull requests are welcome.  If you make a major change, please open an issue first to discuss what you would like to change.

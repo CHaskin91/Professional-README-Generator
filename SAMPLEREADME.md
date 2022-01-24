@@ -1,9 +1,9 @@
-# Professional README Generator
+# ReadMe Gen Testing
 
-## Licensing
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+  ## Licensing:
+  [![license]https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
-## Table of Contents 
+  ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -11,25 +11,24 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
 
+  ## Description:
+  Testing my ReadMe generator
 
-## Description
-Quickly generate a professional README for a new project.
+  ## Installation:
+  See README.md 
 
-## Installation
-* Clone Code from GitHub
-* Open Terminal
-* Run npm install
-* Run node index.js
+  ## Usage:
+  See README.md
 
-## Usage 
-Video of app being used - goes here.
+  ## License:
+  MIT
 
-## Contribution
-Pull requests are welcome.  If you make a major change, please open an issue first to discuss what you would like to change.
+  ## Contribution:
+  contributions will go here.
 
-## Testing
-N/A
+  ## Testing:
+  Testing instructions will go here.
 
-## Additional Info
-* GitHub Account: [CHaskin91](https://github.com/CHaskin91)
-* Email: chaskin91@gmail.com
+  ## Additional Info:
+  - Github: [chaskin91](https://github.com/chaskin91)
+  - Email: chaskin91@testemail.com 
