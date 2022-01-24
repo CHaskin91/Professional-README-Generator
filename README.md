@@ -17,20 +17,23 @@
 Quickly generate a professional README for a new project.
 
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+* Clone Code from GitHub
+* Open Terminal
+* Run npm install
+* Run node index.js
 
 ## Usage 
 Video of app being used - goes here.
 
 ## Contribution
-How can users contribute to this project?
+Pull requests are welcome.  If you make a major change, please open an issue first to discuss what you would like to change.
 
 ## Testing
-How do users test this project?
+N/A
 
 ## Additional Info
-GitHub Account: [CHaskin91](https://github.com/CHaskin91)
-Email: chaskin91@gmail.com
+* GitHub Account: [CHaskin91](https://github.com/CHaskin91)
+* Email: chaskin91@gmail.com
 
 ## Resources
 * Inquirer Documentation [https://www.npmjs.com/package/inquirer]
